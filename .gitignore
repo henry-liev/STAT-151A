@@ -17,6 +17,7 @@ Notes/*
 !Notes/*.pdf
 Notes/*.pdf
 !Notes/STAT 151A Lecture *.pdf
+!Notes/STAT 151A Review Session.pdf
 
 # Explicitly ignore other file types in Notes folder
 Notes/*.tex
