@@ -5,4 +5,4 @@ Lecture notes from UC Berkeley's STAT 151a in the Fall of 2025 taught by Profess
 
 Lectures 11, 23, and 35 were review sessions for Quizzes 1, 2, and 3 respectively.
 
-On the dimensionality of design matrices: You may often see $\mathbb X \in \mathbb R^{n \times p}$, Pimental prefers to use $\mathbb X \in \mathbb R^{n \times (p+1)}$ as he tends to count the $p$ regressors + 1 intercept column instead of counting the intercept column as one of the $p$ regressors.
+On the dimensionality of design matrices: You may often see $\mathbb X \in \mathbb R^{n \times p}$, in this case, the intercept column si counted in $p$, the notes use $\mathbb X \in \mathbb R^{n \times (p+1)}$ for $p$ regressors and $+1$ intercept column.
